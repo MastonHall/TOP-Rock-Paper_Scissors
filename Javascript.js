@@ -105,7 +105,7 @@ while (rounds <= 5) { //Plays full 5 round game
 
     playRound();
     rounds++;
-    console.log("round is now: " + rounds);
+    //console.log("round is now: " + rounds);
 
 }
 //Tells player their score and CPU's score at end of game
